@@ -1,0 +1,26 @@
+.activeGeo{
+    fill: #031236;
+}
+
+.activeGeo:hover{
+    fill: #ffad1e;
+    cursor: pointer;
+    outline: none;
+}
+
+.nonActiveGeo{
+    fill: #1c2546
+}
+
+.singleGeo{
+    stroke: #005690
+}
+
+
+.locationMarker{
+    stroke: #ffad1e;
+}
+
+.locationMarkerActive{
+    stroke: #000000;
+}

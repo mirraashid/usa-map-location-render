@@ -1,0 +1,29 @@
+.geoToolTip{
+    background: #1c2546!important;
+    width: 200px;
+}
+
+.geoToolTip ul{
+   list-style-type: none;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   padding: 0px;
+}
+
+.geoToolTip li{
+    /* //margin-left: -40px; */
+    flex: 50%; 
+ }
+
+.geoToolTipTitle{
+    color: #ffad1e;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.geoToolTipSubTitle{
+    color: #698185;
+
+}
